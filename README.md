@@ -18,8 +18,8 @@ QuestLog is a Streamlit-based productivity application that turns your daily to-
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/QuestLog.git](https://github.com/YOUR_USERNAME/QuestLog.git)
-    cd QuestLog
+    git clone [https://github.com/bimalendu/quest-log.git](https://github.com/bimalendu/quest-log.git)
+    cd quest-log
     ```
 
 2.  **Install dependencies:**
