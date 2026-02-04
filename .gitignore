@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Data (Optional: ignore save files if you want to keep them local)
+*.json
+
+# Virtual Environments
+venv/
+env/
